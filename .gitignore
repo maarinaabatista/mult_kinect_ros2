@@ -1,0 +1,9 @@
+# Ignorar pastas de compilação
+build/
+install/
+log/
+
+# Arquivos temporários do editor
+.vscode/
+.idea/
+*.swp
